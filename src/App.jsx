@@ -1,3 +1,6 @@
+import Aboutus from "./component/Aboutus"
+import Additionaltech from "./component/Additionaltech"
+import Contacts from "./component/Contacts"
 import Hero from "./component/Hero"
 import Navbar from "./component/Navbar"
 import Projects from "./component/Projects"
@@ -10,6 +13,9 @@ function App() {
       <Hero />
       <Projects/>
       <Technologies/>
+      <Additionaltech/>
+      <Aboutus/>
+      <Contacts/>
     </div>
   )
 }

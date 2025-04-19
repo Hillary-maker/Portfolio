@@ -4,7 +4,7 @@ function Projects() {
             <div className="container3">
                 <h1 className="h3">Projects</h1>
                 <div className="glow-box">
-                        <div className="img-box"></div>
+                        <div className="img-box"> <img src="Screenshot(26).png" alt="" /></div>
                         <h1 className="h">Project</h1>
                         <div className="small-box"></div>
                         <p className="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sit ut in illo eaque non aliquam? Aut dolore labore soluta.</p>
