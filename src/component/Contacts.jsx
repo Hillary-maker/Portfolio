@@ -15,17 +15,17 @@ function Contacts() {
             <p className="paras1">charles@outlook.com</p>
           </div>
           <div className="boxes5">
-            <li className="li">
+            <li className="li1">
               <a href="#">
                 <FaGithub size={30} />
               </a>{" "}
             </li>
-            <li className="li">
+            <li className="li1">
               <a href="#">
                 <FaLinkedin size={30} />
               </a>
             </li>
-            <li className="li">
+            <li className="li1">
               <a href="#">
                 <FaFigma size={30} />
               </a>

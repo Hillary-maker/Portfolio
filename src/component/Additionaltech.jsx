@@ -3,7 +3,7 @@ function Additionaltech() {
         <section className="section3">
             <div className="box1000">
                 <div className="box10000">
-                <h1>Additional technologies and skills</h1>
+                <h1 className="hh">Additional technologies and skills</h1>
                 </div>
                 <div className="box2000">
                     <h1 className="h0">.Git</h1>
